@@ -80,10 +80,10 @@
     },
     {
       "id": "p3",
-      "name": "Imaan ki hifaazat",
+      "name": "Imaan par khatma hone ki dua",
       "category": "Imaan",
-      "subtitle": "",
-      "details": "",
+      "subtitle": "هُوَ اللهُ الرَّحِيمُ",
+      "details": "Jo har namaaz k bad 7 baar padh lia karega (إِنْ شَاءَ ٱللَّٰهُ) shaitan k sar se bachega aur uska imaan par khatma hoga.",
       "tarjumah": "",
       "ahadees": "",
       "hawala": ""
@@ -92,8 +92,8 @@
       "id": "p3",
       "name": "Rizq me barkat",
       "category": "Khususi",
-      "subtitle": "",
-      "details": "",
+      "subtitle": "يَا مَلِكُ",
+      "details": "90 baar gharib o nadar(poor) rozana padha kare (إِنْ شَاءَ ٱللَّٰهُ) jald gurbat se nijaat payega.",
       "tarjumah": "",
       "ahadees": "",
       "hawala": ""
